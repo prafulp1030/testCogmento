@@ -5,4 +5,5 @@ Feature: Test Cogmento CRM Application
     When user enter valid credentails
     Then user click on login button
 
-    
+  Scenario: validate home page Functionality
+    When user is on home page and validate title
