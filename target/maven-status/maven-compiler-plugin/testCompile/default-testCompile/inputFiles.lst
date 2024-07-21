@@ -1,2 +1,8 @@
+<<<<<<< HEAD
 C:\Users\praf0\OneDrive\Desktop\Automation Testing 27th April 2024 Batch\GIt 21 July workspace\TestCogmentoCRM\src\test\java\Runner\RunnerTest.java
 C:\Users\praf0\OneDrive\Desktop\Automation Testing 27th April 2024 Batch\GIt 21 July workspace\TestCogmentoCRM\src\test\java\Steps\LoginPageStepTest.java
+=======
+C:\Users\praf0\git\testCogmento\src\test\java\Runner\RunnerTest.java
+C:\Users\praf0\git\testCogmento\src\test\java\Steps\HomePageStepTest.java
+C:\Users\praf0\git\testCogmento\src\test\java\Steps\LoginPageStepTest.java
+>>>>>>> 60f392023c65996fe21d39aa1804346342131b6a
