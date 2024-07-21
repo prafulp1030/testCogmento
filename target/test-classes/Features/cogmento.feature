@@ -4,5 +4,3 @@ Feature: Test Cogmento CRM Application
     Given user is on login page
     When user enter valid credentails
     Then user click on login button
-
-   
